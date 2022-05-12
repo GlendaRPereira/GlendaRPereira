@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlendaRPereira
 - 👀 I’m interested in technical writing
-- 🌱 I’m currently learning about technica wrinting
+- 🌱 I’m currently learning about API documentation
 - 💞️ I’m looking to collaborate on API documentation
 - 📫 How to reach me: send me a email glendarpereira@gmail.com
 
